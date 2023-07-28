@@ -1,0 +1,9 @@
+{
+  "exclude": ["node_modules/**/*", "index.js"],
+  "compilerOptions": {
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "module": "ESNext",
+    "moduleResolution": "Node"
+  }
+}
